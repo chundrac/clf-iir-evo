@@ -66,7 +66,7 @@ model {
   matrix[F,F] pi_matrix;                //holds approximation of stationary probabilities in each row
   vector[F] pi;                         //stationary probability
   for (i in 1:F*(F-2)) {
-    R[i] ~ gamma(1,5);                //shape/rate parameterization
+    R[i] ~ gamma(1,1);                //shape/rate parameterization
     //R[i] ~ uniform(0,1);
   }
   for (t in 1:T) {
