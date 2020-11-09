@@ -11,3 +11,5 @@ Rscript make_density_map.R
 Rscript make_consensus_simmap_with_probs.R
 Rscript ia_iran_trans.R
 ```
+
+Code used to generate the tree sample can be found here: https://github.com/gerhardJaeger/indo-iranian-ASJP-trees/blob/master/code/indoiranian.Rev
