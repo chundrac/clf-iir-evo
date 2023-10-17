@@ -13,3 +13,5 @@ Rscript ia_iran_trans.R
 ```
 
 Code used to generate the tree sample can be found here: https://github.com/gerhardJaeger/indo-iranian-ASJP-trees/blob/master/code/indoiranian.Rev
+
+[![DOI](https://zenodo.org/badge/291749343.svg)](https://zenodo.org/doi/10.5281/zenodo.10013713)
